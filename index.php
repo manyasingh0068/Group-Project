@@ -66,7 +66,9 @@ nav {
     flex-direction: column;
     cursor: pointer;
 }
-
+card: hover {
+    
+}
 @media (max-width: 768px) {
     .menu-toggle {
         display: flex; 
@@ -426,6 +428,7 @@ $result = $conn->query($sql);
 </body>
 
 </html>
+
 
 
 
